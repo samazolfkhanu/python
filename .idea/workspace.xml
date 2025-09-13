@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc4d6786-adf2-4805-8666-d62067061422" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2yxXEKoyzpp7rxY4tQb1DWmRQcl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.All__Any.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Annotations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.App (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.App.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Challange.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Docstring1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Enumerate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ex4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exception1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exception2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exception3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.F1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.F2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FileHandler.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fun1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fun10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fun11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fun12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fun13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fun14+.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fun14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fun15_MiniProject.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fun2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fun3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fun4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fun5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fun6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fun7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fun8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fun9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Int1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.L2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Main (3).executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Main (4).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MathematicOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Max__Min.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Menu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MiniProject.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Password.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Print_DataType_Input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Range.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Reversed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Review.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Review1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Review10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Review11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Review2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Review3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Review5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Review6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Review7+.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Review7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Review8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Review9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.S3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Simple_Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sorted.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StringExe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.T6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.To_Do_App.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.University_Class_Manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.UserRole.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zip.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Python&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Python\python_learning\mini_projects\employers" />
+      <recent name="F:\Python\python_learning\exercise" />
+      <recent name="F:\Python\python_learning\mini_projects\simple_calculator" />
+      <recent name="F:\Python\python_learning\mini_projects\University_Class_Manager" />
+      <recent name="F:\Python\exercise" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Ex4">
+    <configuration name="Ex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning/exercise/important_mathods" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learning/exercise/important_mathods/Ex1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning/exercise/important_mathods" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learning/exercise/important_mathods/Ex2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning/exercise/important_mathods" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learning/exercise/important_mathods/Ex3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning/exercise/important_mathods" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learning/exercise/important_mathods/Ex4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_learning/mini_projects/cienema" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_learning/mini_projects/cienema/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Ex4" />
+        <item itemvalue="Python.Ex3" />
+        <item itemvalue="Python.Ex2" />
+        <item itemvalue="Python.Ex1" />
+        <item itemvalue="Python.Main (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc4d6786-adf2-4805-8666-d62067061422" name="Changes" comment="" />
+      <created>1750777084570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750777084570</updated>
+    </task>
+    <servers />
+  </component>
+</project>
